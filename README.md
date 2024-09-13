@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sp1noffs
-- 👀 I’m interested in AI and robotics
+- 👀 I’m interested in AI/robotics and low-level programming
 - 🌱 I’m currently learning Python and web development
 
 <!---
