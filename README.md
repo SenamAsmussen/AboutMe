@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Senam!
 
 🎓 **Informatics Student at NTNU**  
-<!-- 💻 **Machine learning and robotics** -->
 🌍 **Languages:** Norwegian, English, learning Korean  
 ⚡ **Currently learning:** Java, networking and interaction design  
 
