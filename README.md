@@ -6,14 +6,13 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Senam!
 
 🎓 **Informatics Student at NTNU**  
-💻 **Machine learning and robotics**  
+<!-- 💻 **Machine learning and robotics** -->
 🌍 **Languages:** Norwegian, English, learning Korean  
-⚡ **Currently learning:** Java  
+⚡ **Currently learning:** Java, networking and interaction design  
 
 ## 🚀 About Me  
-I'm a tech enthusiast with a strong interest in backend development, cloud computing, and AI/ML.  
-I enjoy working with **Python, Java, and cloud services like Azure**.  
-Currently exploring **Java and software engineering concepts**.  
+24, from Trondheim, Norway
+I'm a tech enthusiast with a strong interest in computers, robotics, and AI/ML.   
 
 ## 🛠️ Skills & Tools  
 - **Programming:** Python, Java, JavaScript  
@@ -21,13 +20,13 @@ Currently exploring **Java and software engineering concepts**.
 - **Cloud & DevOps:** Azure  
 
 ## 📌 Projects  
-🔹 [Project Name](GitHub Repo Link) – Short description of what it does  
-🔹 [Another Project](GitHub Repo Link) – Another interesting project  
+<!--🔹 [Project Name](GitHub Repo Link) – Short description of what it does  
+🔹 [Another Project](GitHub Repo Link) – Another interesting project  -->
 
 ## 📫 Contact  
-📧 Email: your.email@example.com  
+📧 Email: dancing_dolce.7i@icloud.com
 💼 [LinkedIn](www.linkedin.com/in/senam-julian-yao-asmussen-9b629823a)  
-💻 [GitHub](https://github.com/yourusername)  
+💻 [GitHub](https://github.com/SenamAsmussen)  
 
 ---
 
