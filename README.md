@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ⚡ **Currently learning:** Java, networking and interaction design  
 
 ## 🚀 About Me  
-24, from Trondheim, Norway
+24, from Trondheim, Norway   
 I'm a tech enthusiast with a strong interest in computers, robotics, and AI/ML.   
 
 ## 🛠️ Skills & Tools  
