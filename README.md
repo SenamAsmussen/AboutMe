@@ -18,10 +18,6 @@ I'm a tech enthusiast with a strong interest in computers, robotics, and AI/ML.
 - **Machine Learning:** PyTorch  
 - **Cloud & DevOps:** Azure  
 
-## 📌 Projects  
-<!--🔹 [Project Name](GitHub Repo Link) – Short description of what it does  
-🔹 [Another Project](GitHub Repo Link) – Another interesting project  -->
-
 ## 📫 Contact  
 📧 [Email](mailto:dancing_dolce.7i@icloud.com)   
 💼 [LinkedIn](www.linkedin.com/in/senam-julian-yao-asmussen-9b629823a)  
