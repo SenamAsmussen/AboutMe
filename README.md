@@ -30,4 +30,4 @@ I'm a tech enthusiast with a strong interest in computers, robotics, and AI/ML.
 
 ---
 
-> _"Code, learn, improve, repeat."_ 🚀  
+> "I’m sorry, but your opinion means very little to me." - Rick Sanchez  
