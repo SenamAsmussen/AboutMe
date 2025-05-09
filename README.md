@@ -11,12 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me  
 24, from Trondheim, Norway   
-I'm a tech enthusiast with a strong interest in computers, robotics, and AI/ML.   
+I'm a tech enthusiast with a strong interest in computers and robotics.   
 
 ## 🛠️ Skills & Tools  
 - **Programming:** Python, Java, JavaScript  
-- **Machine Learning:** PyTorch  
-- **Cloud & DevOps:** Azure  
 
 ## 📫 Contact  
 📧 [Email](mailto:dancing_dolce.7i@icloud.com)   
